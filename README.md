@@ -1,0 +1,2 @@
+# Ethara.ai
+fullstack (mern)
